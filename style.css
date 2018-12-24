@@ -1,0 +1,25 @@
+body {
+    background-color: #000;
+}
+
+h1 {
+    background: white;
+    margin: 0 auto;
+    width: 60%;
+    padding: .75em
+}
+
+.btn {
+    margin: 1em;
+}
+
+#quote-box {
+    margin: 0 auto;
+    background: #310031;
+    max-width: 60% !important;
+}
+#text,
+#author {
+    color: #fff;
+    font-size: 1.5em;
+}
